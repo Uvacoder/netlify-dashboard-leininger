@@ -1,5 +1,7 @@
 https://github.com/davidleininger/netlify-dashboard
 
+https://leininger-dashboard.netlify.app
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
